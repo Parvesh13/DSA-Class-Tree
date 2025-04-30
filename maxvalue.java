@@ -1,4 +1,4 @@
-public class MaxValue {
+public class maxvalue {
     static  class Node{
         int data;
         Node left;
