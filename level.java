@@ -1,4 +1,4 @@
-public class Level {
+public class level {
 
 
      static  class Node{
