@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class search {
     static  class Node{
         int data;
         Node left;
