@@ -1,4 +1,4 @@
-public class height{
+public class height {
     static  class Node{
         int data;
         Node left;
