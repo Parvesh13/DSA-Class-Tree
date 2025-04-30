@@ -1,4 +1,4 @@
-public class NoOfLeafs {
+public class leafs {
     static  class Node{
         int data;
         Node left;
