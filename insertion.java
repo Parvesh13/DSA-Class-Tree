@@ -1,7 +1,7 @@
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class TreeInsertion {
+public class insertion {
 
     static  class Node{
         int data;
