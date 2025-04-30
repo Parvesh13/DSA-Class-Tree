@@ -1,4 +1,4 @@
-public class NoOfNodes{
+public class nodes{
     static  class Node{
         int data;
         Node left;
