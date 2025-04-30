@@ -1,4 +1,4 @@
-public class search {
+public class search { 
     static  class Node{
         int data;
         Node left;
