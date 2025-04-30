@@ -1,4 +1,4 @@
-public class PostOrderTrasversal {
+public class postorder {
     static  class Node{
         int data;
         Node left;
